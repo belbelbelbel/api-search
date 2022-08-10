@@ -1,0 +1,27 @@
+.html,
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.begin .ring img {
+    width: 80%;
+    height: 21rem;
+    align-self: center;
+    align-items: center;
+    overflow: hidden;
+    background-position: center;
+    margin: '';
+    
+    
+}
+
+ .dim {
+    text-align: center;
+    justify-content: content;
+    margin-left: 400px;
+}
+
+
+
